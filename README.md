@@ -11,3 +11,7 @@ Since the LSTM cell expects the input  in the form of multiple time steps, each 
 
 Shopping online is currently the need of the hour. Because of this COVID, it's not easy to walk in a store randomly and buy anything you want. Once you download the file the rows you see are the details of the order done online by people across the globe in the time frame 1-jan-2011 to 31-dec-2014. There are no missing values in the majority of columns except postal code, you can drop it if not required.
 
+**Pipeline**
+
+<img width="714" alt="Снимок экрана 2024-05-14 в 15 31 08" src="https://github.com/sergeyapokin/MLops_project/assets/153228526/774512fa-5b96-4626-a5fa-e27de4aff7c8">
+
