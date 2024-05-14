@@ -15,3 +15,4 @@ Shopping online is currently the need of the hour. Because of this COVID, it's n
 
 <img width="714" alt="Снимок экрана 2024-05-14 в 15 31 08" src="https://github.com/sergeyapokin/MLops_project/assets/153228526/774512fa-5b96-4626-a5fa-e27de4aff7c8">
 
+The project consists of an infer.py and a train.py. The main launch of the project comes from the infer.py, which implements loading the dataset and dividing it into train and test. To run it, you need to create an env using requirements or build a DockerFile and using the created environment you can run our project.
