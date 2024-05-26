@@ -1,0 +1,5 @@
+outs:
+- md5: 791740eee7d10b20164a4e189d4bc856
+  size: 13170187
+  hash: md5
+  path: globa_superstore.csv
